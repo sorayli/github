@@ -1,0 +1,40 @@
+commit ea877c22d03e663630810a9e066c83fbba471d0a
+Author: sorayli <imane200555@gmail.com>
+Date:   Mon Nov 25 14:19:30 2024 +0100
+
+    Revert "add changes to the README.md file in %USERNAME-new_feature branch"
+    
+    This reverts commit a69830abeb00a0b5027b1cdee0a4363defe244ba.
+
+commit a69830abeb00a0b5027b1cdee0a4363defe244ba
+Author: sorayli <imane200555@gmail.com>
+Date:   Mon Nov 25 14:17:30 2024 +0100
+
+    add changes to the README.md file in %USERNAME-new_feature branch
+
+commit cd9db588e80c8377081f00a5257862d0d23515ba
+Merge: 8b964c9 1bf240b
+Author: sorayli <imane200555@gmail.com>
+Date:   Mon Nov 25 13:57:09 2024 +0100
+
+    Merge pull request #1 from sorayli/%USERNAME-new_feature
+    
+    adding readme and gitignore file %USERNAME-new_feature
+
+commit 1bf240b3d8cf16f155c4ffcaeff3aa21d22a038e
+Author: sorayli <imane200555@gmail.com>
+Date:   Mon Nov 25 13:48:58 2024 +0100
+
+    adding readme and gitignore file %USERNAME-new_feature
+
+commit 8b964c95383fc2a7af4593ddf682eec8fd9e15be
+Author: sorayli <imane200555@gmail.com>
+Date:   Mon Nov 25 13:31:45 2024 +0100
+
+    adding test file to the dev branch
+
+commit 713e8df99ad533978423d8224714bf1212db6353
+Author: sorayli <imane200555@gmail.com>
+Date:   Mon Nov 25 13:26:31 2024 +0100
+
+    adding Task1 folder and the README file on the master branch
